@@ -1,1 +1,1 @@
-Kotlin/spring boot developer at Cleaq
+Developer at Cleaq.
