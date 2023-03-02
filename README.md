@@ -1,7 +1,7 @@
 ### <div align="center">I'm Ian, a full stack developer from Cleveland, USA living in Nantes, France</div>  
   
 
-- 🖥️ Currently working as a back-end developer at Cleaq  
+- 🖥️ Currently working as a web developer at Hardis Group 
   
 
 - 🎓 I also have two degrees from Cleveland State University in Urban planning and French  
