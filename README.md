@@ -22,7 +22,7 @@
     </section>
     <section class="projects">
         <h2>Featured Project</h2>
-        <p><a href="app.wanderbyway.com"><strong>Wander By Way:</strong></a> A travel site that helps users find unexpected routes.</p>
+        <p><a href="http://app.wanderbyway.com"><strong>Wander By Way:</strong></a> A travel site that helps users find unexpected routes.</p>
     </section>
     <section class="contact-info">
         <h2>Contact Info</h2>
